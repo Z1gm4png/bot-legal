@@ -1,0 +1,13 @@
+{
+  "name": "bot-legal",
+  "version": "1.0.0",
+  "description": "Bot para consultorio legal",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "venom-bot": "^5.0.0",
+    "node-fetch": "^2.6.7"
+  }
+}
